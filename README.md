@@ -1,7 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Desenvolvendo REST / RESTful APIs com Ruby on Rails.
+
+- Udemy
+https://www.udemy.com/course/rubyonrails-api
 
 Things you may want to cover:
 
